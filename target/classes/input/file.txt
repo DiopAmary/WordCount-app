@@ -1,0 +1,1 @@
+Créer un répertoire input sous le répertoire resources de votre projet
